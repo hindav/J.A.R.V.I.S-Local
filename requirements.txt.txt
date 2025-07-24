@@ -1,0 +1,12 @@
+opencv-python
+googletrans==3.1.0a0
+keyboard
+numba
+numpy
+openai
+playsound
+pyaudio
+pyautogui
+selenium
+SpeechRecognition
+torch
