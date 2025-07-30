@@ -80,7 +80,7 @@ pip install -r requirements.txt
 ### 3. ▶️ Run the Assistant
 
 ```bash
-python Main.py
+python Jarvis.py
 ```
 
 ---
