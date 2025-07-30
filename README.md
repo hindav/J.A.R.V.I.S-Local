@@ -2,9 +2,6 @@
 # 🤖 JARVIS – Your Personal Desktop AI Assistant
 ```
 **Author:** Hindav  
-**Main Commit:** `d84c9f1`  
-**Last Updated:** Last Week  
-
 ---
 
 ## 🧠 About
